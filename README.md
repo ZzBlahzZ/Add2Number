@@ -9,7 +9,8 @@ can save some memory if two combined score greater than 10
 
 have time to calculate the implementation
 you can download the file jar in here
-https://drive.google.com/open?id=1LEe-QzdK6IZwKjRrQXGohlHVw__LVXy1
-TO run file on command line, move to file jar location and open command line and write this
+https://drive.google.com/open?id=18Og1zZE33ZKZWNl-MKcwxrvaQHAJEEq9
+TO run program on command line, move to file jar to the addtwonumber folder location OPen it
+to test the program open command line and write this
 
 java -jar MyBigNumber.jar
